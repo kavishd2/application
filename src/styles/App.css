@@ -1,0 +1,23 @@
+body {
+  background-color: aliceblue;
+}
+
+.main {
+  text-align: center;
+  padding: 20px;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.resume {
+  background-color: white;
+  flex: 2 1 0;
+}
+
+.user {
+  flex:1;
+}
